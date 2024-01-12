@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from "../../assets/illustration.png"
+import Hero from "../../assets/Illustration.png"
 const Home = () => {
   return (
     <div className='bg-[#F5F7FA] ' id="home">

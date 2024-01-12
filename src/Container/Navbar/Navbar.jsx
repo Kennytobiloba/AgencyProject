@@ -44,7 +44,7 @@ const Navbar = () => {
          {
 
          toggleMenu && (
-          <div className=' absolute flex flex-col justify-center text-center px-4 py-7  align-middle  top-[70px] w-[100%]  right-0 space-y-4  bg-[#4CAF4F] text-white'>
+          <div className=' scale-up-center absolute flex flex-col justify-center text-center px-4 py-7  align-middle  top-[70px] w-[100%]  right-0 space-y-4  bg-[#4CAF4F] text-white'>
            <Menu/>
           </div>
          )
