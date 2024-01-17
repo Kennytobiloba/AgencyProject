@@ -21,12 +21,13 @@ const Customer = () => {
          <h3 className='text-green-500 lg:text-xl text-[14px] font-semibold font-[Inter] leading-7'>Tim Smith</h3>
          <p className='text-black mt-2 lg:text-base text-[14px] font-normal mb-2 font-[Inter] leading-normal'>British Dragon Boat Racing Association</p>
 
-         <div className='flex  flex-wrap justify-between mt-8 gap-2'>
+         <div className='flex mt-2  justify-between items-center gap-4 lg:gap-8  flex-wrap'>
           <img src={Iconone} alt=""  />
           <img src={Icontwo} alt=""  />
           <img src={Iconthree}alt="" />
           <img src={Iconfour} alt="" />
           <img src={Iconfive} alt="" />
+          <img src={Iconsix} alt="" />
           <div className='flex'>  <h4 className=' w-48 text-green-500 text-xl font-semibold font-[Inter] leading-7'> Meet All Customer </h4></div>
           <i className="fa-solid fa-arrow-right flex justify-center text-green-500 text-[20px]"></i>
          
