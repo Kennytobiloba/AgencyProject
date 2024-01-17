@@ -5,6 +5,7 @@ import Achievement from './Container/Achievement/Achievement'
 import Community from './Container/Community/Community'
 import Customer from './Container/Customer/Customer'
 import Fotter from './Container/Footer/Fotter'
+import Footerthree from './Container/Footerthree/Footerthree'
 import Footer from './Container/Footertwo/Footer'
 import Home from './Container/Home/Home'
 import Navbar from './Container/Navbar/Navbar'
@@ -25,7 +26,8 @@ function App() {
     <Customer/>
     <Community/>
     <Fotter/>
-    <Footer/>
+    <Footerthree/>
+    
    </div>
      
   )

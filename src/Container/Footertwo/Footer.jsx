@@ -37,7 +37,7 @@ const Footer = () => {
                 </div>
 
                 <div className=' '>
-                    <h4 className='text-white text-xl font-semibold font-[Inter] leading-7 mb-2'>Support</h4>
+                    <h4 className='text-white text-xl font-semibold font-[Inter] leading-7 mb-2'>Stay up to date</h4>
                     <div className='flex flex-col gap-2'>
 
                     <a href="">Help center</a>
