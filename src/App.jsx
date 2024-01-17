@@ -4,10 +4,9 @@ import About from './Container/About/About'
 import Achievement from './Container/Achievement/Achievement'
 import Community from './Container/Community/Community'
 import Customer from './Container/Customer/Customer'
-import Fotter from './Container/Footer/Fotter'
 import Footerthree from './Container/Footerthree/Footerthree'
-import Footer from './Container/Footertwo/Footer'
 import Home from './Container/Home/Home'
+import Info from './Container/Info/Info'
 import Navbar from './Container/Navbar/Navbar'
 import Service from './Container/Service/Service'
 import Unlock from './Container/Unlock/Unlock'
@@ -25,7 +24,7 @@ function App() {
     <Unlock/>
     <Customer/>
     <Community/>
-    <Fotter/>
+    <Info/>
     <Footerthree/>
     
    </div>

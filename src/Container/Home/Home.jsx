@@ -9,7 +9,7 @@ const Home = () => {
               <div className=' lg:w-1/2 '>
                 
                 <h1 className='text-4xl mdtext-center text-black xl:text-7xl lg:text-6xl font-semibold font-[Inter] xl:leading-[90px]  mb-4 leading-[36px] md:text-5xl ] md:w-4/5 lg:w-full'>Lessons and insights <span className='text-green-500 md-w-3/4 '>from 8 years</span></h1>
-                <p className=' md:w-3/4   text-black text-base font-normal font-[Inter] mb-10 leading-normal '>Where to grow your business as a photographer: site or social media?</p>
+                <p className=' md:w-3/4   text-black text-bold font-normal font-[Inter] mb-10 leading-normal '>Where to grow your business as a photographer: site or social media?</p>
               
 
               

@@ -6,9 +6,9 @@ const Footerthree = () => {
     <div>
 
 <footer
-  className="flex flex-col items-center bg-[#263238] text-center dark:bg-neutral-600 lg:text-left">
-  <div className="container xl:p-10 p-6">
-    <div className="grid place-items-center md:grid-cols-2 lg:grid-cols-4">
+  className="flex flex-col  bg-[#263238] text-center dark:bg-neutral-600 lg:text-left">
+  <div className="section__padding">
+    <div className="grid place-items-center md:grid-cols-2 lg:grid-cols-4 gap-10 ">
       
       <div className="mb-10">
       <div className='flex flex-1 gap-2 mb-4 mt-8'>
