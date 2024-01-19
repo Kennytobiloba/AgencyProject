@@ -6,8 +6,8 @@ import ICONTHREE from "../../assets/ICONTHREE.png"
 const Achievement = () => {
   return (
     <div className=' bg-[#F5F7FA] ' id="Products">
-    <div className='section__padding max-w-screen-2xl mt-20 mx-auto my-14 flex justify-around lg:flex-row flex-col gap-8'>
-    <div className=''>
+    <div className=' pb-[4rem]   xl:py-[6rem] xl:mt-16 px-[2rem] sm:px-[3rem]  lg:px-[2rem] max-w-screen-2xl mt-20 mx-auto my-14 flex justify-around lg:flex-row flex-col gap-8'>
+    <div className=' mt-[4rem] '>
         <h1 className='text-black mb-2 lg:text-4xl text-2xl font-semibold font-[Inter] lg:leading-10 leading-8 '> Helping a local   <br /> <span className='text-green-600 lg:text-4xl text-2xl font-semibold font-[Inter] lg:leading-10 leading-6'> business reinvent itself</span>  </h1>
         
         <p className='text-black lg:text-base text-[14px] font-bold font-[Inter] leading-normal'>We reached here with our hard work and dedication</p>

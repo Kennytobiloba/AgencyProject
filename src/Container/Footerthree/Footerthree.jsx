@@ -6,11 +6,11 @@ const Footerthree = () => {
     <div>
 
 <footer
-  className="flex flex-col  bg-[#263238] text-center dark:bg-neutral-600 lg:text-left">
-  <div className="section__padding">
-    <div className="grid place-items-center md:grid-cols-2 lg:grid-cols-4 gap-10 ">
+  className="  bg-[#263238] text-center dark:bg-neutral-600 lg:text-left">
+  <div className="xl:py-[8rem] pt-[4rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[2rem]">
+    <div className="grid place-items-center md:grid-cols-3 lg:grid-cols-4 gap-10 ">
       
-      <div className="mb-10">
+      <div className="mb-[2rem]">
       <div className='flex flex-1 gap-2 mb-4 mt-8'>
                <img src={Icon} alt="" className=' w-[35px] h-[24px]' />
                <img src={Logo} alt="log" className='w-[111.49px] h-[18px] bg-white'  />  
@@ -21,11 +21,11 @@ const Footerthree = () => {
         <p className='text-slate-50 text-sm font-normal font-[Inter] leading-tight'>Copyright © 2020 Nexcent ltd.</p>
                 <p className='text-slate-50 mt-2 mb-8 text-sm font-normal font-[Inter] leading-tight'>All rights reserved</p>
                 <div className='flex gap-4'>
-                <i className="fa-brands fa-instagram"></i>
-                <i className="fa-brands fa-instagram"></i>
-                <i className="fa-brands fa-twitter"></i>
-                <i className="fa-brands fa-youtube"></i>
-                <i className="fa-brands fa-instagram"></i>
+                <i className="fa-brands fa-instagram text-white"></i>
+                <i className="fa-brands fa-instagram text-white"></i>
+                <i className="fa-brands fa-twitter text-white"></i>
+                <i className="fa-brands fa-youtube text-white"></i>
+                <i className="fa-brands fa-instagram text-white"></i>
                 </div>
     
       </div>

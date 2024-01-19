@@ -10,9 +10,9 @@ import Iconsix from "../../assets/Icon6.png"
 const Customer = () => {
   return (
     <div className='bg-[#F5F7FA]' id="Testimonial">
-      <div className='section__padding max-w-screen-2xl mx-auto my-8 mt-[6rem] py-16'>
-      <div className='flex justify-between gap-14 items-center mx-auto md:w-11/12 flex-col lg:flex-row'>
-      <div className='flex '>
+      <div className='xl:py-[4rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[2rem] max-w-screen-2xl mx-auto my-8 mt-[6rem] py-16'>
+      <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 justify-items-center content-center gap-10 xl:gap-1'>
+      <div className=' flex flex-1 items-start  '>
       <img src={customerImage} alt="" className=''  />
       </div>
 
@@ -21,14 +21,14 @@ const Customer = () => {
          <h3 className='text-green-500 lg:text-xl text-[14px] font-semibold font-[Inter] leading-7'>Tim Smith</h3>
          <p className='text-black mt-2 lg:text-base text-[14px] font-normal mb-2 font-[Inter] leading-normal'>British Dragon Boat Racing Association</p>
 
-         <div className='flex mt-2  justify-between items-center gap-4 lg:gap-8  flex-wrap'>
+         <div className='flex mt-[2rem] md:mt-4 lg:mt-[2rem]  justify-between items-center xl:gap-6 gap-[18px] flex-wrap'>
           <img src={Iconone} alt=""  />
           <img src={Icontwo} alt=""  />
           <img src={Iconthree}alt="" />
           <img src={Iconfour} alt="" />
           <img src={Iconfive} alt="" />
           <img src={Iconsix} alt="" />
-          <div className='flex'>  <h4 className=' w-48 text-green-500 text-xl font-semibold font-[Inter] leading-7'> Meet All Customer </h4></div>
+          <div className='flex'>  <h4 className=' w-48 text-green-500 lg:text-xl text-[14px] font-semibold font-[Inter] leading-7'> Meet All Customer </h4></div>
           <i className="fa-solid fa-arrow-right flex justify-center text-green-500 text-[20px]"></i>
          
           
