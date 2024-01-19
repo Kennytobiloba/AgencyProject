@@ -1,5 +1,5 @@
 import React from 'react'
-import Unlocks from "../../assets/unlock.png"
+import Unlocks from "../../assets/customer.png"
 
 const Unlock = () => {
   return (
