@@ -10,7 +10,7 @@ import Iconsix from "../../assets/Icon6.png"
 const Customer = () => {
   return (
     <div className='bg-[#F5F7FA]' id="Testimonial">
-      <div className='xl:py-[4rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[2rem] max-w-screen-2xl mx-auto my-8 mt-[6rem] py-16'>
+      <div className='xl:py-[4rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[6rem] max-w-screen-2xl mx-auto my-8 mt-[6rem] py-16'>
       <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 justify-items-center content-center gap-10 xl:gap-1'>
       <div className=' flex flex-1 items-start  '>
       <img src={customerImage} alt="" className=''  />

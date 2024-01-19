@@ -3,7 +3,7 @@ import Hero from "../../assets/Illustration.png"
 const Home = () => {
   return (
     <div className='bg-[#F5F7FA]  ' id="home" >
-        <div className='xl:py-[6rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[2rem] mx-auto justify-items-center lg:min-h-screen xl:h-screen lg:max-w-screen-2xl md:h-[50vh]  '>
+        <div className='xl:py-[6rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[6rem] mx-auto justify-items-center lg:min-h-screen xl:h-screen lg:max-w-screen-2xl md:h-[50vh]  '>
           <div className='  grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 lg:gap-9  gap-12  mx-auto justify-items-center content-center'>
             
               <div className='mt-[8rem] md:mt-[10rem]  xl:mt-[12rem]  '>

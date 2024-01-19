@@ -7,7 +7,7 @@ const Footerthree = () => {
 
 <footer
    className="  bg-[#263238] text-center dark:bg-neutral-600 lg:text-left">
-  <div className="xl:py-[8rem] pt-[4rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[2rem]">
+  <div className="xl:py-[8rem] pt-[4rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[10rem]">
     <div className="grid place-items-center md:grid-cols-3 lg:grid-cols-4 gap-10 ">
       
       <div className="mb-[2rem]">

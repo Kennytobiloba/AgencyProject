@@ -15,7 +15,7 @@ import house from "../../assets/house.png"
 const Service = () => {
   return (
     <div>
-        <div className='py-20 max-w-screen-2xl mx-auto   xl:py-[6rem] xl:mt-16 px-[2rem] sm:px-[3rem] lg:px-[2rem] ' id="Service">
+        <div className='py-20 max-w-screen-2xl mx-auto   xl:py-[6rem] xl:mt-16 px-[2rem] sm:px-[3rem] lg:px-[6rem] ' id="Service">
             <div className='text-center my-16 mx-auto'>
                 <h1 className=' text-black   text-2xl lg:text-5xl font-semibold  mb-10 font-[Inter] leading-10'>Our Client </h1>
                 <p className='text-center text-black text-[14px] lg:text-[16px] font-bold font-[Inter] leading-normal'>We have been working with some Fortune 500+ clients</p>

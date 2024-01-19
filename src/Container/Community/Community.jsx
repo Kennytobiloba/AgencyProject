@@ -5,7 +5,7 @@ import blogthree from "../../assets/blog3.png"
 
 const Community = () => {
   return (
-    <div  className=' max-w-screen-2xl  my-12 xl:py-[6rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[2rem] mx-auto py-10   '>
+    <div  className=' max-w-screen-2xl  my-12 xl:py-[6rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[10rem] mx-auto py-10   '>
         <div className='text-center  gap-10 justify-between '>
             <h1 className='text-center text-black lg:text-4xl text-2xl font-semibold font-[Inter] lg:leading-10 leading-8 mb-4'>Caring is the new marketing</h1>
             <p className='  text-center text-text lg:text-base text-[14px] font-normal font-[Inter] leading-normal lg:w-2/3  mx-auto'>The Nexcent blog is the best place to read about the latest membership insights, trends and more. See who's joining the community, read about how our community are increasing their membership income and lot's more.​</p>
