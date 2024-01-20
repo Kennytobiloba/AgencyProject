@@ -21,14 +21,13 @@ const Service = () => {
                 <p className='text-center text-black text-[14px] lg:text-[16px] font-bold font-[Inter] leading-normal'>We have been working with some Fortune 500+ clients</p>
         
             </div>
-            <div className='flex mt-[6rem] lg:mb-[10rem] mb-[6rem] justify-between items-center gap-8 md:gap-[2rem] sm:gap-[60px] min-[540px]:gap-12 flex-wrap'>
+            <div className='grid lg:grid-cols-7 mt-[6rem] lg:mb-[10rem] mb-[6rem] lg:gap-10 md:grid-cols-7 sm:grid-cols-4 grid-cols-4 gap-6'>
              <img src={Iconone} alt="" />
-             <img src={Icontwo} alt="" />
+             <img src={Iconeight} alt="" />
              <img src={Iconthree} alt="" />
              <img src={Iconfour} alt="" />
              <img src={Iconfive} alt="" />
              <img src={Iconsix} alt="" />
-             <img src={Iconseven} alt="" />
              <img src={Iconeight} alt="" />
             </div>
 

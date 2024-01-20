@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className='xl:py-[1rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[10rem]  max-w-screen-2xl mx-auto ' id='Features'>
        <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 justify-items-center content-center'>
-      <div className='flex flex-1 items-start '>
+      <div className='flex flex-1  self-center  '>
       <img src={frame} alt="" className='w-[100%] h-[100%]'  />
       </div>
 

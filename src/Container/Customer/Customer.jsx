@@ -21,16 +21,18 @@ const Customer = () => {
          <h3 className='text-green-500 lg:text-xl text-[14px] font-semibold font-[Inter] leading-7'>Tim Smith</h3>
          <p className='text-black mt-2 lg:text-base text-[14px] font-normal mb-2 font-[Inter] leading-normal'>British Dragon Boat Racing Association</p>
 
-         <div className='flex mt-[2rem] md:mt-4 lg:mt-[2rem]  justify-between items-center xl:gap-6 gap-[18px] flex-wrap'>
+         <div className='flex gap-8 flex-wrap mt-[2rem] md:mt-4 lg:mt-[2rem]   '>
           <img src={Iconone} alt=""  />
-          <img src={Icontwo} alt=""  />
           <img src={Iconthree}alt="" />
           <img src={Iconfour} alt="" />
           <img src={Iconfive} alt="" />
           <img src={Iconsix} alt="" />
-          <div className='flex'>  <h4 className=' w-48 text-green-500 lg:text-xl text-[14px] font-semibold font-[Inter] leading-7'> Meet All Customer </h4></div>
-          <i className="fa-solid fa-arrow-right flex justify-center text-green-500 text-[20px]"></i>
+          <div className='flex flex-row gap-0'> 
+           <h4 className=' w-48 text-green-500 lg:text-xl text-[14px] font-semibold font-[Inter] leading-7'> Meet All Customer </h4>
+           <i className="fa-solid fa-arrow-right inline-block text-green-500 text-[20px] "></i>
          
+           </div>
+          
           
          </div>
           <div className=' w-36 h-12 px-18  mt-8 py-3.5 bg-green-500 rounded justify-center items-center gap-2.5 inline-flex'>

@@ -5,7 +5,7 @@ const Unlock = () => {
   return (
     <div className='xl:py-[6rem] xl:mt-16 px-[2rem] sm:px-[3rem]   lg:px-[10rem]  max-w-screen-2xl mx-auto ' id='Features'>
        <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 justify-items-center content-center gap-[4rem] xl:gap-1'>
-      <div className='flex flex-1 items-start '>
+      <div className='flex flex-1  self-center  '>
       <img src={Unlocks} alt="" className='w-[100%] h-[100%]'  />
       </div>
 
